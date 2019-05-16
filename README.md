@@ -1,4 +1,5 @@
 # Callbacks and Iterators
+https://github.com/thuyanduong-flatiron/cereals
 
 ## Concepts
 - functions as variables
@@ -23,11 +24,13 @@ Let's learn about cereal.
 Goals:
 1. How many cereals in our data?
 2. Just the name of all the cereals?
-3. All cereals by a manufacturer?
+3. All cereals by a certain manufacturer?
 4. The names of all cereals manufactured by General Mills?
-5. Sum of ratings?
-6. Average rating?
-7. Sort by calories?
+5. Any cereal with calories between 80 and 100?
+6. All cereals with calories between 80 and 100?
+7. Sum of ratings?
+8. Average rating?
+9. Sort by calories?
 
 ### What about callbacks for addEventListener
 - And what about that mysterious e parameter?
